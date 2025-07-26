@@ -43,3 +43,6 @@ Dentro da pasta do projeto, crie dois arquivos: index.html e styles.css.
 ## Link do Figma
 O design base para este projeto pode ser encontrado aqui:
 https://www.figma.com/design/NRBYrG5d4DSzObv7dpTqoM/Desafio-Responsividade---DIO?node-id=0-1&p=f
+## Resulado:
+Você pode conferir o resultado do projeto em: 
+https://ikkyluiz.github.io/recriando_interface_discord/

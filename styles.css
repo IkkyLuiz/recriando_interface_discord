@@ -1,0 +1,26 @@
+/* Estilos CSS personalizados para o layout do Discord */
+
+/* Define a fonte padrão para o corpo do documento */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Gradiente personalizado para a seção hero */
+.hero-gradient {
+    background: linear-gradient(to bottom, #404eed, #6771e8);
+}
+
+/* Estilização base para botões primários (Tailwind @apply para combinar classes) */
+.btn-primary {
+    @apply bg-white text-black font-semibold py-3 px-6 rounded-full shadow-lg hover:shadow-xl transition-all duration-300;
+}
+
+/* Estilização base para botões secundários */
+.btn-secondary {
+    @apply bg-gray-800 text-white font-semibold py-3 px-6 rounded-full shadow-lg hover:shadow-xl transition-all duration-300;
+}
+
+/* Estilização específica para botões com a cor do Discord */
+.btn-discord {
+    @apply bg-[#5865F2] text-white font-semibold py-3 px-6 rounded-full shadow-lg hover:shadow-xl transition-all duration-300;
+}
